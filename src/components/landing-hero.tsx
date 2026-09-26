@@ -42,12 +42,12 @@ export default function LandingHero() {
                 Shreyash Pal
               </h1>
               <span className="text-xl font-semibold text-zinc-900 dark:text-zinc-100 md:text-3xl">
-                Software Developer
+                Income Tax Inspector Ex-Software Engineer
               </span>
             </FadeUp>
             <FadeUp key="description" duration={0.6} delay={0.2}>
               <div className="mt-8 max-w-3xl text-base font-semibold text-zinc-900 dark:text-zinc-200 sm:text-base md:text-xl">
-                I am a software developer specializing in building
+                I am a software engineer specializing in building
                 high-performance, user-focused web applications. Skilled in{" "}
                 <span className="font-semibold text-accent">ReactJS</span>,{" "}
                 <span className="font-semibold text-accent">NextJS</span>,{" "}
