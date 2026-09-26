@@ -42,7 +42,7 @@ export default function LandingHero() {
                 Shreyash Pal
               </h1>
               <span className="text-xl font-semibold text-zinc-900 dark:text-zinc-100 md:text-3xl">
-                Income Tax Inspector Ex-Software Engineer
+                Income Tax Inspector / Ex-Software Engineer
               </span>
             </FadeUp>
             <FadeUp key="description" duration={0.6} delay={0.2}>
